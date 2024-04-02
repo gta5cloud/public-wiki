@@ -1,0 +1,53 @@
+site_name: Cloud Roleplay Wiki
+site_url: https://wiki.gta5cloud.com/
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  language: en
+  font: false
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - assets/extra.css
+
+extra:
+  generator: false
+  alternate:
+
+    - name: English
+      link: /en/
+      lang: en
+
+    - name: Deutsch
+      link: /de/
+      lang: de
+
+plugins:
+  - search:                                         
+      lang: en
+  - privacy
+  
+nav:
+- Welcome: index.md
+
+copyright: Copyright &copy; <a href="https://gta5cloud.com"  target="_blank" rel="noopener">gta5cloud.com</a>

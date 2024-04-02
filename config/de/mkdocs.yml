@@ -1,0 +1,121 @@
+site_name: Cloud Roleplay Wiki
+site_url: https://wiki.gta5cloud.com/
+docs_dir: '../../docs/de'
+site_dir: '../../generated/de'
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  language: de
+  font: false
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - assets/extra.css
+
+extra:
+  generator: false
+  alternate:
+
+    - name: English
+      link: /en/
+      lang: en
+
+    - name: Deutsch
+      link: /de/
+      lang: de
+
+plugins:
+  - search:                                         
+      lang: de
+  - privacy
+
+nav:
+- Willkommen: index.md
+- Erste Schritte:
+  - Wie spiele ich Cloud Roleplay?: first-steps/how-to-play.md
+  - Account erstellen: first-steps/account.md
+- Regelwerk: 
+  - Allgemeine Regeln: https://forum.gta5cloud.com/threads/73/
+  - Greenzone Regeln: https://forum.gta5cloud.com/threads/72/
+  - Raub- und Entführungsregeln: https://forum.gta5cloud.com/threads/71/
+  - Regeln für den Leiter einer Organisation: https://forum.gta5cloud.com/threads/70/
+  - Regeln der Wahl: https://forum.gta5cloud.com/threads/69/
+  - Familienkrieg: https://forum.gta5cloud.com/threads/74/
+  - Razzia Regeln: https://forum.gta5cloud.com/threads/68/
+  - Fort Zancudo Raid: https://forum.gta5cloud.com/threads/67/
+  - Ladenraub: https://forum.gta5cloud.com/threads/66/
+  - Frachtkrieg: https://forum.gta5cloud.com/threads/65/
+  - Regeln für den Army-Konvoi: https://forum.gta5cloud.com/threads/64/
+  - Versorungsregeln für das EMS: https://forum.gta5cloud.com/threads/63/
+- Probleme mit dem Spiel:
+  - Häufige Startprobleme: problems/frequent-starting-problems.md
+  - Sprach Chat: problems/voice-chat.md
+  - Technische Unterstüzung: problems\technical-support.md
+- Jobs: 
+  - Angler: jobs/fisherman.md
+  - Automechaniker: jobs/car-mechanic.md
+  - Bauarbeiter: jobs/construction-worker.md
+  - Bauer: jobs/farmer.md
+  - Busfahrer: jobs/bus-driver.md
+  - Elektriker: jobs/electrician.md
+  - Geldtransporter: jobs/cash-transporter.md
+  - Holzfäller: jobs/lumberjack.md
+  - Jäger: jobs/hunter.md
+  - Minenarbeiter: jobs/mineworker.md
+  - Müllsammler: jobs/garbage-collector.md
+  - Taxifahrer: jobs/cab-driver.md
+  - Trucker: jobs/trucker.md
+- Familie:
+  - Erstelle eine Familie: family/creation.md
+  - Familienmenü: family/menu.md
+  - Familienevents: 
+    - Familienbasis: family/events/base.md
+    - Banküberfall: family/events/bank-robbery.md
+- Unterstützende Items:
+  - 24&7: supporting-items/store.md
+  - Alkohol: supporting-items/alcohol.md
+  - Biolink: supporting-items/biolink.md
+  - Funkgerät: supporting-items/radio.md
+- Marktplatz:
+  - Marktstände: marketplace/market-stalls.md
+  - Strandmarkt: marketplace/beach-market.md
+  - Mobiler Laden: marketplace/mobile-store.md
+  - Auktionator: marketplace/auctioneer.md
+  - Schwarzmarkt: marketplace/black-market.md
+- Parkmöglichkeiten:
+  - Parkplatz: parking/parking-lot.md
+  - Eigenes Haus: parking/house.md
+  - Wohnung: parking/apartment.md
+- Händler für Fahrzeuge:
+  - Autoverkäufer Van: car-dealer/van.md
+  - Günstiger Autohändler: car-dealer/cheap.md
+  - Premium Autohändler: car-dealer/premium.md
+  - Luxus Autohändler: car-dealer/luxury.md
+  - Motorradhändler: car-dealer/motorcycle.md
+  - Bootshändler: car-dealer/boat.md
+  
+
+
+  
+
+
+
+copyright: Copyright &copy; <a href="https://gta5cloud.com"  target="_blank" rel="noopener">gta5cloud.com</a>
