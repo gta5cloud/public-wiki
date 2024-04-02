@@ -2,6 +2,7 @@ site_name: Cloud Roleplay Wiki
 site_url: https://wiki.gta5cloud.com/
 docs_dir: '../../docs/de'
 site_dir: '../../generated/de'
+repo_url: https://github.com/gta5cloud/public-wiki
 
 theme:
   name: material
