@@ -15,17 +15,17 @@ Wird der Vertrag aktiviert, so erscheinen zwei neue Symbole auf der Karte.
 
 Die Fleischfabrik neben dem Bauernhof und ein Abgabepunkt am Rand des Ghettos.
 
-![Familie](../../assets/images/family/contracts/meat_crate/meat_fabric_point.PNG)
+![Familie](../../assets/images/family/contracts/meat_crates/meat_fabric_point.PNG)
 
-![Familie](../../assets/images/family/contracts/meat_crate/end_point.PNG)
+![Familie](../../assets/images/family/contracts/meat_crates/end_point.PNG)
 
 Als erstes fahrt ihr zur Fleischfabrik. Dort befindet sich ein Punkt, wo ihr "E" drückt um eine Fleischkiste aufzuheben. Mit dieser Fleischkiste lauft ihr zu eurem Auto und drückt erneut "E", wodurch sie in euer Auto geladen wird. Dieser Vorgang wird solange wiederholt, bis euer Kofferaum voll ist.
 
-![Familie](../../assets/images/family/contracts/meat_crate/meat_fabric.PNG)
+![Familie](../../assets/images/family/contracts/meat_crates/meat_fabric.PNG)
 
 Danach fahrt ihr mit dem Auto zum angegeben Abgebaut, wo ihr mit eurem Auto auf den Punkt fahrt und "E" drückt zum abgeben.
 
-![Familie](../../assets/images/family/contracts/meat_crate/end_point_point.PNG)
+![Familie](../../assets/images/family/contracts/meat_crates/end_point_point.PNG)
 
 Diese Fahrten werden nun so oft wiederholt bis der Vertrag abgeschlossen ist und ihr euer Geld auf das Famlienkonto erhaltet.
 
