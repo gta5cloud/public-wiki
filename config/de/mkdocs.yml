@@ -87,6 +87,11 @@ nav:
 - Familie:
   - Erstelle eine Familie: family/creation.md
   - Familienmenü: family/menu.md
+  - Familienverträge: 
+    - Erstellung: family/contracts/creation.md
+    - Fleischkisten: family/contracts/meat_crates.md
+    - Lachs: family/contracts/salmon.md
+    - Dolly-Varden-Forellen: family/contracts/forell.md
   - Familienevents: 
     - Familienbasis: family/events/base.md
     - Banküberfall: family/events/bank-robbery.md
