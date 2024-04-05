@@ -89,9 +89,12 @@ nav:
   - Familienmenü: family/menu.md
   - Familienverträge: 
     - Erstellung: family/contracts/creation.md
-    - Fleischkisten: family/contracts/meat_crates.md
     - Lachs: family/contracts/salmon.md
     - Dolly-Varden-Forellen: family/contracts/forell.md
+    - Fleischkisten: family/contracts/meat_crates.md
+    - Dattelpalmenkisten: family/contracts/date_crates.md
+    - Tomaten: family/contracts/tomato.md
+    - Datteln: family/contracts/date.md
   - Familienevents: 
     - Familienbasis: family/events/base.md
     - Banküberfall: family/events/bank-robbery.md
