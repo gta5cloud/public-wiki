@@ -70,6 +70,8 @@ nav:
   - Häufige Startprobleme: problems/frequent-starting-problems.md
   - Sprach Chat: problems/voice-chat.md
   - Technische Unterstüzung: problems\technical-support.md
+- Menus:
+  - G-Menu: menus/g_menu.md
 - Jobs: 
   - Angler: jobs/fisherman.md
   - Automechaniker: jobs/car-mechanic.md
