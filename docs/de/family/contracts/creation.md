@@ -34,7 +34,7 @@ Um diesen Vertrag nun zu aktivieren, muss man unten eine Unterschrift eingeben u
 
 - Lachs: 100 bis 1299
 - Dolly-Varden-Forellen: 20 bis 259
-- Fleischkisten: 30 bis 1039
+- Fleischkisten: 80 bis 1039
 - Dattelpalmenkisten: 30 bis 389
 - Tomaten: 120 bis 1559
 - Datteln: 100 bis 1299
